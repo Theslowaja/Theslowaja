@@ -1,5 +1,5 @@
 # Theslowaja
-Hi There 👋, I'm Theslowaja, You Can Call Me gani
+Hi There 👋, I'm Theslowaja, You Can Call Me Ghani
 <br>
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdDFNysfK1Uqg6M_JVddh2A)
