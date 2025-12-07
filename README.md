@@ -1,12 +1,46 @@
-# Theslowaja
-Hi There 👋, I'm Theslowaja, You Can Call Me Ghani
-<br>
-## 🚶 Visit Me
-[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdDFNysfK1Uqg6M_JVddh2A)
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Theslowaja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Theslowaja&count_private=true&show_icons=true&hide_border=false&custom_title=Theslowaja%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="Theslowaja GitHub Stats" />
-</a>
-<a href="https://github.com/Theslowaja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theslowaja&layout=compact&hide_border=true&theme=tokyonight" />
-</a>
+# 👋 Hi, I'm Theslowaja!
+
+### 🎮 Game Developer | Minecraft & Roblox
+
+I build gameplay systems, plugins, and game mechanics—focusing on fun, clean code, and scalable structure.
+
+---
+
+## 🛠️ Tech & Tools I Use
+
+* **Java** — PaperMC plugins, custom game mechanics, server systems.
+* **Lua** — Roblox scripting, UI systems, minigames, and custom inventory logic.
+* **PocketMine / PMMP** — Custom minigames, fishing systems, survival enhancements.
+* **Skript + SkBee** — Dynamic GUIs, player shops, black market systems.
+
+---
+
+## 🔥 Highlighted Work
+
+* Custom **Minecraft minigames** (multi-arena, packet delivery jobs, survival expansions)
+* **Roblox systems** like inventory, item stacking, GUI frameworks, quest systems
+* Complex **economy & shop mechanics** for both Minecraft and Roblox
+* A lot of experiments fueled by… *Indomie*. 🍜❤️
+
+---
+
+## 💡 About Me
+
+I love building:
+
+* Game systems that feel **alive**
+* Plugins & scripts that are **clean, modular, and expandable**
+* Mechanics that keep players coming back
+
+And yes, I code better after eating **Indomie**.
+
+---
+
+## 🌐 Connect With Me
+
+💼 GitHub: *Theslowaja*
+🕹️ Discord: *Theslowaja*
+
+---
+
+> *"Code. Test. Refactor. Eat Indomie. Repeat."*
